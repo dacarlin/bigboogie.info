@@ -1,0 +1,69 @@
+p span, p b {
+font: bold 14px Helvetica;
+color: #586e75;
+}
+
+small b {
+font-size: inherit;
+}
+
+b span {
+border: 1px solid #586e75;
+border-radius: 50%;
+}
+
+h1 {
+	font-size:1px;
+	color:transparent;
+	background: url(logotype.png) top left no-repeat;
+	height: 185px;
+	width: 515px;
+	margin: 44px auto 48px auto;
+}
+
+article {
+	text-shadow: -1px -1px 0 #fff;
+}
+
+body {
+margin: 0;
+padding: 233px 0 0 0;
+font-size: 16px;
+background: url(guitar.png) top center no-repeat #f4f4f4;
+color: #708183;
+font-family: Georgia, serif;
+line-height: 1.6;
+}
+
+pre {
+font: 13px/13px Courier;
+color: #586e75;
+}
+
+article, footer {
+width: 515px;
+margin: 2em auto 4em auto;
+padding: 0 0 4em 0;
+}
+
+article ol {
+font-size: 85%;
+border-top: 1px solid #E9E2CB;
+padding-top: 1.6em;
+}
+
+article h2 a, article h2 a:visited, article h2 {
+text-decoration: none;
+font: bold 24pt/32pt Futura !important;
+text-transform: uppercase;
+color: #586e75;
+margin-left: -2px;
+font-weight: normal;
+}
+
+article h2 a:active {
+color: #cb4b16;
+}
+
+footer {
+border-top:8px solid #81908F}
